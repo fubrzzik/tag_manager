@@ -1,0 +1,13 @@
+.column-tag_status span {
+    padding: 6px 12px;
+    border-radius: 4px;
+    color: #fff;
+}
+
+.column-tag_status span.tag_status_active {
+    background: #00a800;
+}
+
+.column-tag_status span.tag_status_inactive {
+    background: #a50000;
+}
